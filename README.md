@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zach
-- 👀 I’m interested in data science, product optimization, and product design
+- 👀 I’m interested in data science, growth analytics, product optimization, and personalized UX
 - 📫 Email: zach.merritt@berkeley.edu
 
 <!---
